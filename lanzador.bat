@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk-17.0.10\bin\java" --module-path "C:\Program Files\Java\javafx-sdk-21.0.8\lib" --add-modules javafx.controls,javafx.graphics -cp ./bin principal.PlasmaFX
